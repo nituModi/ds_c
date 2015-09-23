@@ -3,6 +3,11 @@
 
 #define MAX_LINE 300
 
+
+
+/**
+ * 写的不错，加油！
+ */
 int 
 main(int argc, char **argv)
 {
