@@ -5,6 +5,9 @@
 
 typedef void (*PfCbPrintElement)(const ElementAddr elemaddr);
 
+
+
+// 写的不错
 void 
 print_list(List list, PfCbPrintElement printfn)
 {
