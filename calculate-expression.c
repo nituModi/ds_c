@@ -152,7 +152,7 @@ calculate(char operator, double left, double right)
 		fprintf(stderr, "Undefined this operator\n");
 		exit(1);
 	}
-	return res;
+	return(res);
 }
 
 /* Calculate postfix expression */
